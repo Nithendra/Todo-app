@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+.app-container {
+  background: whitesmoke;
+  width: 30%;
+  margin: 1% 30%;
+  font-size: 13px;
+  font-family: Arial;
+  border: 1px solid #e3dcdc;
+  padding: 4px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
